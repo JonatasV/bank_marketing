@@ -1,4 +1,8 @@
 # The Calling: Unveiling Telemarketing Insights for Bank Long-Term Deposits
+<img src = "/petr-machacek-unsplash.jpg">
+
+💻 [Complete Project](https://github.com/JonatasV/bank_marketing/blob/main/bank_marketing.ipynb)
+📊 [Complete Presentation](https://github.com/JonatasV/bank_marketing/blob/main/bank_marketing_presentationp.pdf) 
 
 # Introduction
 More than just a place to pay bills, a bank aims to attract new customers and retain them. For this, financial institutions create marketing campaigns with the goal of expanding their customer base. Telemarketing is a way to use direct marketing to reach a specific audience. This strategy was employed by a retail bank in Portugal.
